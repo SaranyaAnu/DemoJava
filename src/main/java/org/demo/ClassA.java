@@ -5,6 +5,7 @@ public class ClassA {
 		
 		System.out.println("Saranya");
 		System.out.println("Razeem");
+		
 	}
 
 }
